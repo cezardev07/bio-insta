@@ -97,7 +97,6 @@ footer a{
 footer a:hover{
     color: rgb(100, 45, 121);
     background: rgb(56, 192, 255);
-    transform: scale(1.09);
 }
 @media(max-width: 650px){
     ul li a{
